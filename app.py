@@ -2,7 +2,7 @@ import streamlit as st
 import json 
 import pandas as pd
 
-st.write("Hello, *World!* :sunglasses:")
+st.write("Hello, *World!* :sunrise:")
 
 ELEMENTS = [
     dict(n=1,  sym="H",  name="Hidrogen",       cat="nonmetal",   mass="1.008",  period=1, group=1,  config="1s¹",                    phase="Gas",   en="2.20", radius="53",  bp="-252.9°C", mp="-259.1°C"),
