@@ -95,3 +95,4 @@ ELEMENTS = [
     dict(n=116,sym="Lv", name="Livermorium",     cat="posttrans",  mass="(293)",  period=7, group=16, config="[Rn] 5f¹⁴ 6d¹⁰ 7s² 7p⁴", phase="Padat", en="—",    radius="—",   bp="—",        mp="—"),
     dict(n=117,sym="Ts", name="Tennesin",        cat="halogen",    mass="(294)",  period=7, group=17, config="[Rn] 5f¹⁴ 6d¹⁰ 7s² 7p⁵", phase="Padat", en="—",    radius="—",   bp="—",        mp="—"),
     dict(n=118,sym="Og", name="Oganesson",       cat="noble",      mass="(294)",  period=7, group=18, config="[Rn] 5f¹⁴ 6d¹⁰ 7s² 7p⁶", phase="Gas",   en="—",    radius="—",   bp="—",        mp="—"),
+]
